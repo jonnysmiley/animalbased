@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/animalbased/static/css/main.a76c076d.css",
-    "main.js": "/github.io/animalbased/static/js/main.8b92a8a2.js",
+    "main.js": "/github.io/animalbased/static/js/main.1e055ba9.js",
     "static/media/pine.webp": "/github.io/animalbased/static/media/pine.4162d3981f10598ead34.webp",
     "static/media/date.jpg": "/github.io/animalbased/static/media/date.33c7a0f8209104622e76.jpg",
     "static/media/sun.jpg": "/github.io/animalbased/static/media/sun.c9dec5d7eed07c93cb55.jpg",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.a76c076d.css",
-    "static/js/main.8b92a8a2.js"
+    "static/js/main.1e055ba9.js"
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/github.io/animalbased/static/css/main.a76c076d.css",
+    "main.js": "/github.io/animalbased/static/js/main.8b92a8a2.js",
+    "static/media/pine.webp": "/github.io/animalbased/static/media/pine.4162d3981f10598ead34.webp",
+    "static/media/date.jpg": "/github.io/animalbased/static/media/date.33c7a0f8209104622e76.jpg",
+    "static/media/sun.jpg": "/github.io/animalbased/static/media/sun.c9dec5d7eed07c93cb55.jpg",
+    "static/media/thomas.webp": "/github.io/animalbased/static/media/thomas.f52b958ae91b5801e3a6.webp",
+    "static/media/graze.jfif": "/github.io/animalbased/static/media/graze.2a8167213b73ab6e919f.jfif",
+    "static/media/organic.jfif": "/github.io/animalbased/static/media/organic.b28a2071cb726c962113.jfif",
+    "static/media/pasture.jfif": "/github.io/animalbased/static/media/pasture.5c391b401439c26c3d45.jfif",
+    "static/media/Dakota.jfif": "/github.io/animalbased/static/media/Dakota.314e84d31cc2a951b8c1.jfif",
+    "static/media/sprouts.jfif": "/github.io/animalbased/static/media/sprouts.959af7a1f5051878f9a2.jfif",
+    "static/media/pomegranate.webp": "/github.io/animalbased/static/media/pomegranate.b45d322be641167a0343.webp",
+    "static/media/curb.webp": "/github.io/animalbased/static/media/curb.f76493c6845419b5883b.webp",
+    "static/media/simple.jpg": "/github.io/animalbased/static/media/simple.eb8b0b099b4739641d4e.jpg",
+    "static/media/open.webp": "/github.io/animalbased/static/media/open.8c56bd0c43ff3d46d175.webp",
+    "static/media/logo.png": "/github.io/animalbased/static/media/logo.6fadb4b97c60b66de234.png",
+    "static/media/strw.webp": "/github.io/animalbased/static/media/strw.55a99e2b21cf7a9b6b87.webp",
+    "static/media/nucleo-icons.eot": "/github.io/animalbased/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/github.io/animalbased/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/github.io/animalbased/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/github.io/animalbased/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/download.jfif": "/github.io/animalbased/static/media/download.1e261ea9226f146566b1.jfif",
+    "static/media/simp.webp": "/github.io/animalbased/static/media/simp.4582a0e33d380ce13c98.webp",
+    "index.html": "/github.io/animalbased/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a76c076d.css",
+    "static/js/main.8b92a8a2.js"
+  ]
+}
